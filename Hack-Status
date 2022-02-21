@@ -1,4 +1,4 @@
-Hack-Status: Hacks-Down: Error: 461
+Hack-Status: Hacks-Down: Error: 398
 estimated-fix-time: 2-Days
 This Status is running by the glixzy server
 
@@ -6,3 +6,5 @@ Error Notes
 461: Normal Bugs Break
 398: Big Problem Break
 351: Unknown
+Custom: Note For Hack-Status-Live: 
+The old scripts on this repositorie are really outdated and also the glixzy server is having a problem and i might have to shut this down soon.
