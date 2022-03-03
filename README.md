@@ -1,5 +1,10 @@
 # Blooket-Coding
-I JUST MADE THIS FOR FUN NOT FOR COPYING AND STEALING SUPPORT SCHOOLCHEATS.NET ALSO SUPPORT gbasil.dev/blooket FOR THE BLOOKET GUI
-Any Bugs? just report on issues and i will update the script if theres a new one Remeber to delete the old script/bookmark.
+I made this for people that want to hack in school or worldwide.
 
-This repositorie is having big problems, Info is on Hack-Status
+NOTE: IF YOU ASK ME TO TAKE SOMETHING DOWN ITS A NO!
+
+Issues can be used as chatting, commenting, or something not working.
+
+Keep in mind gbasil, i updated README.md because of you.
+
+I give credit to: "Schoolcheats.net" for no trouble
