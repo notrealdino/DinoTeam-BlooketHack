@@ -7,6 +7,5 @@ Issues can be used as chatting or commenting ON THE LINK UNDER THE REPOSITORY'S 
 
 Issues go on issues on this repository
 
-Keep in mind gbasil, i updated README.md because of you.
 
 I give credit to: "Schoolcheats.net" for no trouble
